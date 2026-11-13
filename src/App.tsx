@@ -22,7 +22,8 @@ import {
   Key,
   Globe,
   Radio,
-  ExternalLink
+  ExternalLink,
+  FileText
 } from 'lucide-react';
 import {
   synthesizeGnaniSpeech,
@@ -800,6 +801,15 @@ export default function App() {
                 </button>
               ))}
             </div>
+
+            <a
+              href="/slides.html"
+              target="_blank"
+              className="w-7 h-7 rounded-lg bg-emerald-50 hover:bg-emerald-100 text-emerald-700 flex items-center justify-center cursor-pointer transition-colors"
+              title="Open Presentation Deck (PPT)"
+            >
+              <FileText className="w-3.5 h-3.5" />
+            </a>
 
             <button
               onClick={() => setShowJudgeDrawer(true)}
