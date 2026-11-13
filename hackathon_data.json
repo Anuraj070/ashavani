@@ -1,0 +1,226 @@
+{
+  "event": {
+    "judgingSettings": {
+      "blindJudging": false,
+      "scoringOpen": true,
+      "openJudging": false,
+      "scoringMethod": "mean"
+    },
+    "_id": "6ac1f3261dd8f1b6f612077d",
+    "eventName": "Build Bengaluru 2.0",
+    "description": "<h1>Build Bengaluru 2.0 \u2014 24-Hour Hackathon</h1><hr><h2><strong>Join Group for Important updates</strong> - <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-primary underline cursor-pointer\" href=\"https://chat.whatsapp.com/KFrYRhF3ETq9yf0NSUuEDj\">https://chat.whatsapp.com/KFrYRhF3ETq9yf0NSUuEDj</a></h2><hr><p><strong>HackBriven presents Build Bengaluru 2.0</strong>, a 24-hour hackathon bringing together developers, innovators, AI enthusiasts, and aspiring founders at <strong>Newton School Campus, Bengaluru</strong>, in community partnership with <strong>Google for Developers</strong>.</p><p>Get ready for 24 hours of building, learning, and innovation. Collaborate with fellow builders, solve real-world problems, and turn your ideas into impactful solutions.</p><p><br><strong>Eligibility Criteria:</strong> Only students are eligible to participate in Build Bengaluru 2.0. \ud83c\udf93</p><p></p><p><strong>Hackathon Structure</strong></p><p>Round 1: Online Screening</p><p>Round 2: Online PPT Submission</p><p>Round 3: Offline Finale</p><p></p><p><strong>What's waiting for you?</strong></p><ul><li><p><strong>24-Hour Hackathon:</strong> Build real-world solutions.</p></li><li><p><strong>AI &amp; Tech Learning:</strong> Explore AI and emerging technologies.</p></li><li><p><strong>Cloud Credits:</strong> Access developer resources.</p></li><li><p><strong>Goodies &amp; Swag:</strong> Get exclusive merchandise.</p></li><li><p><strong>Certificates:</strong> Earn recognition for your participation.</p></li><li><p><strong>Networking:</strong> Connect with developers, founders, and industry experts.</p></li><li><p><strong>Mentorship:</strong> Learn and collaborate with fellow builders.</p></li><li><p><strong>Prize Pool:</strong> Win prizes worth up to \u20b950,000.</p></li><li><p><strong>Free Meals:</strong> Stay fuelled throughout the hackathon.<br></p></li></ul><p><strong>Venue:</strong> Newton School Campus, Bengaluru<br><strong>Date: </strong>21-22 November<br><strong>Duration:</strong> 24 Hours<br><strong>Community Partner:</strong> Google for Developers<br><strong>Organised by:</strong> HackBriven<br></p><p>More than just a hackathon, this is an opportunity to learn, innovate, collaborate, and build something meaningful.</p><p><strong>Join Build Bengaluru 2.0 and turn your ideas into reality!</strong></p>",
+    "organizationName": "HackBriven",
+    "eventType": "hackathon",
+    "locationType": "in-person",
+    "participationType": "team",
+    "minTeamSize": 2,
+    "maxTeamSize": 4,
+    "registrationFields": [
+      "name",
+      "email",
+      "phone",
+      "state",
+      "year",
+      "college"
+    ],
+    "customRegistrationFields": [],
+    "audience": "students",
+    "isPaid": false,
+    "eventStatus": "upcoming",
+    "registrationStatus": "open",
+    "startDate": "2026-11-21T03:30:00.000Z",
+    "endDate": "2026-11-22T03:30:00.000Z",
+    "registrationStartDate": "2026-10-02T18:30:00.000Z",
+    "registrationEndDate": "2026-11-14T18:29:00.000Z",
+    "registrationDeadline": "2026-11-04T18:30:00.000Z",
+    "location": "S-Vyasa, Newton School of Technology , Bangalore Campus",
+    "locationUrl": "https://share.google/ZR1oMzmCzdxLwjewX",
+    "eventSchedule": [],
+    "tags": [],
+    "prizeBreakdown": [],
+    "eventRules": [
+      "Team Size: Each team must consist of 2\u20134 members.",
+      "Theme: The hackathon theme will be disclosed soon by the organisers.",
+      "Original Work: Projects must be built from scratch during the hackathon. Copying existing projects or someone else's work is strictly prohibited.",
+      "AI Tools: AI-powered coding assistants and development tools are allowed.",
+      "Submission Deadline: All projects must be submitted before the announced deadline.",
+      "Plagiarism: Reusing or submitting pre-built projects as original work is strictly prohibited. Third-party libraries and resources must be properly attributed.",
+      "Code of Conduct: Participants must maintain respectful and professional behaviour throughout the event.",
+      "Fair Play: Any form of cheating, misconduct, or rule violation may result in disqualification.",
+      "Organiser's Rights: HackBriven reserves the right to modify the rules and disqualify teams for violations."
+    ],
+    "faqs": [
+      {
+        "question": "1. What is the team size for the hackathon?",
+        "answer": "Each team must consist of 2\u20134 members. You can participate with your own team."
+      },
+      {
+        "question": "2. What is the theme of Build Bengaluru 2.0?",
+        "answer": "The hackathon theme will be disclosed soon by the organisers. Stay tuned for updates."
+      },
+      {
+        "question": "3. Can we use AI tools and existing frameworks?",
+        "answer": "Yes, participants are free to use AI tools, coding assistants, programming languages, frameworks, APIs, and libraries to build their projects."
+      },
+      {
+        "question": "4. Can we submit a project that we have already built?",
+        "answer": "No. All projects must be built from scratch during the 24-hour hackathon. Copying existing projects or someone else's work is strictly prohibited."
+      },
+      {
+        "question": "5. What happens after we complete our project?",
+        "answer": "Teams must submit their projects before the deadline and present a working demo to the judges. Projects will be evaluated based on the judging criteria, and the judges' decisions will be final."
+      },
+      {
+        "question": "6. Registration Fee",
+        "answer": "No"
+      }
+    ],
+    "importantLinks": [
+      {
+        "label": "Whatsapp Group ",
+        "url": "https://chat.whatsapp.com/EdPiAbovfEpA52q6zrPHaz?s=cl&p=a&mlu=4&ilr=4"
+      }
+    ],
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "https://www.instagram.com/hack.briven/",
+      "linkedin": "https://www.linkedin.com/company/hackbriven",
+      "youtube": "",
+      "website": ""
+    },
+    "tracks": [
+      {
+        "name": " Build the Online Store",
+        "description": "<h2><strong>The challenge</strong></h2><p>A retail chain that has always sold through physical stores is expanding across India and moving into online shopping. Your job is to build a working online store where customers can browse products, add items to a cart and place orders. The business wants a storefront that is fast, stays accurate when stock changes, and helps shoppers find what they are looking for without any fuss.</p><h2><strong>What you will build with</strong></h2><p>Everything runs on Aiven. All three of the services below are required.</p><p><strong>Service</strong></p><p><strong>What it does in your app</strong></p><p>PostgreSQL</p><p>Your store\u2019s memory. It saves everything that must never be lost: products, prices, customers, carts, orders and how many units are in stock. When someone buys the last item, PostgreSQL makes sure two people can\u2019t both get it.</p><p>Apache Kafka</p><p>Every time something happens, like \u201corder placed\u201d or \u201cinventory changed\u201d, your app posts a message to Kafka. Other parts of your app listen for those messages and react. Example: order placed \u2192 a listener reduces inventory count and sends a confirmation to customer.</p><p>OpenSearch</p><p>Your store\u2019s search bar. It finds products fast, handles spelling mistakes (\u201cbluetoth\u201d still finds Bluetooth earphones), and lets shoppers filter by category, price and city.</p><p><br></p><p>A flow that works well: a customer places an order, it is saved in PostgreSQL, an event goes to Kafka, and a consumer updates inventory and keeps the OpenSearch product index in sync.</p><h2><strong>What to hand in</strong></h2><ol><li><p>A working demo that covers browsing, searching, adding to cart and placing an order.</p></li><li><p>Show that all three services are doing real work: an order that creates a Kafka event, a consumer that reacts to it, and search results coming from OpenSearch.</p></li><li><p>A short pitch on what you built</p></li></ol><h2><strong>Aiven documentation</strong></h2><ul><li><p>PostgreSQL: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-primary underline cursor-pointer\" href=\"https://aiven.io/docs/products/postgresql/get-started\"><u>Get started with Aiven for PostgreSQL</u></a></p></li><li><p>Apache Kafka: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-primary underline cursor-pointer\" href=\"https://aiven.io/docs/products/kafka/get-started/get-started-kafka\"><u>Get started with Aiven for Apache Kafka</u></a>, and optionally <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-primary underline cursor-pointer\" href=\"https://aiven.io/docs/products/kafka/kafka-connect/get-started\"><u>Kafka Connect</u></a> if you want to move data between services</p></li><li><p>OpenSearch: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-primary underline cursor-pointer\" href=\"https://aiven.io/docs/products/opensearch/get-started\"><u>Get started with Aiven for OpenSearch</u></a>, and <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-primary underline cursor-pointer\" href=\"https://aiven.io/docs/products/opensearch/dashboards/get-started\"><u>OpenSearch Dashboards</u></a>, which is handy for testing queries</p></li></ul><h2><strong>Getting access to Aiven</strong></h2><ul><li><p>Sign up for Aiven. The <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-primary underline cursor-pointer\" href=\"https://aiven.io/free-tier\"><u>Free Tier</u></a> covers PostgreSQL, Kafka and OpenSearch, and it does not need a credit card. Each account gets one free service of each type.</p></li><li><p>New accounts can also use a 30-day <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-primary underline cursor-pointer\" href=\"https://aiven.io/docs/platform/concepts/free-trial\"><u>free trial</u></a> with credits, again with no card required.</p></li><li><p>Tip: set up one Aiven account per team and share access, so you do not run into the one-service-per-type limit.</p></li></ul><h2><strong>Ground Rules&nbsp;</strong></h2><ul><li><p>Tech: use any language or framework you like for the frontend and backend. PostgreSQL, Kafka and OpenSearch are the only fixed pieces.</p></li><li><p>Security: keep credentials out of your repo and use environment variables.</p></li><li><p>Originality: open-source libraries are fine, but be creative and use your own flair</p></li></ul><p></p>",
+        "prizes": "",
+        "sponsors": [],
+        "categories": [],
+        "requirements": "",
+        "resources": ""
+      },
+      {
+        "name": "Healthcare: Voice field register forASHA workers",
+        "description": "<p>Build a voice agent that turns an ASHA worker's spoken home-visit notes into a</p><p>structured visit record and a follow-up list, with no typing.</p><p>Background. ASHA workers log pregnancy, newborn and immunisation visits in paper</p><p>registers and phone apps, typing on small screens while walking between houses. Data</p><p>entry eats into visit time, and records arrive late or incomplete.</p><p>Problem statement. How might an ASHA worker speak her visit notes in any supported</p><p>Indic language with English code-mix, and get a correct record plus next actions before</p><p>she reaches the next house?</p><p>Must work with household and street noise.</p><p>What to build (required)</p><p>Criterion Weight What we look for</p><p>Live judge test 30 Judges speak to the agent live. Task success,</p><p>accuracy on names and numbers and time to first</p><p>audio (end of caller speech to first agent audio)</p><p>Speech-layer depth 20 Streaming end to end, barge-in handling,</p><p>endpointing, code-mix and noise handling</p><p>Fit for the target user 20 The named user finishes the task without help,</p><p>on the device they actually own</p><p>Innovation 10 A fresh take on the workflow, beyond a chatbot</p><p>with a voice</p><p>Responsible AI and</p><p>compliance</p><p>10 Meets the baseline below, with guardrails that</p><p>hold in the live demo</p><p>Demo and docs 10 Clear story, working live demo, README a</p><p>stranger can follow</p><p>Gnani Voice Hackathon: Problem Statements</p><p>Page 2 of 5</p><p>1. Voice capture. Streaming STT that handles code-mix and local health words (\"TT</p><p>injection\", \"ANC checkup\", \"IFA goli\").</p><p>2. Structured record with read-back. Your agent fills a visit form (beneficiary ID, visit</p><p>type, weight, vaccinations due, next visit date). Before saving, your agent reads the</p><p>form aloud so she can confirm it, and she fixes any mistake by voice (\"no, weight is 2.8</p><p>kilo\").</p><p>3. Danger-sign escalation. When the notes mention a danger sign from the team's list</p><p>(bleeding in pregnancy, high fever in a newborn), your agent tells her in her language</p><p>to refer to the PHC now and flags the record. It follows the list only and gives no</p><p>diagnosis or treatment advice.</p><p>Judged on. Judges dictate visit notes live with background noise. Scored on field</p><p>accuracy and correct danger-sign flags. A missed danger sign costs double.</p><p>Track-specific guardrails. Synthetic beneficiaries only. Teams build their danger-sign list</p><p>from a public health guideline and cite it in the README.</p>",
+        "prizes": "",
+        "sponsors": [],
+        "categories": [],
+        "requirements": "",
+        "resources": ""
+      },
+      {
+        "name": "Voice Khata for kirana stores",
+        "description": "<p>Build a voice ledger that a shopkeeper talks to across the counter, mid-sale, which records</p><p>credit and payments correctly and tells him who owes what.</p><p>Background. Many kirana stores run customer credit (udhaar) in a paper khata book.</p><p>Nobody types into an app during rush hour. Shop talk is fast, code-mixed and full of</p><p>numbers and names, over the noise of a busy street.</p><p>Problem statement. How might a shopkeeper say \"Ramesh ka 340 udhaar, kal 200 diya</p><p>tha\", or the same in any supported Indic language with English code-mix, during a sale and</p><p>have the ledger update correctly without touching the screen?</p><p>Channel. Android phone or browser on a low-end device, push-to-talk or wake phrase.</p><p>What to build (required)</p><p>1. Numbers under noise. Streaming STT that gets amounts right in any form: \"teen sau</p><p>chaalis\", \"340\" or \"three-forty\", with shop noise behind them.</p><p>2. Ledger logic. Parses customer, amount, credit or payment, and relative dates (\"kal\",</p><p>\"parso\"). Handles spoken corrections (\"nahi, 430\"). Asks a short spoken question</p><p>when two customers share a name.</p><p>3. Spoken answers. \"Aaj kitna udhaar gaya?\" or \"Ramesh ka total?\" answered by voice</p><p>within 2 seconds of the question ending.</p><p>Gnani Voice Hackathon: Problem Statements</p><p>Page 3 of 5</p><p>Judged on. Judges speak shop entries live with noise playing. Scored on exact amount</p><p>match, correct credit or payment direction and correction handling.</p><p>Track-specific guardrails. Reminders stay polite, go only to customers who opted in, and</p><p>carry no pressure or threat language. Ledger data stays on the device or is encrypted at</p><p>rest.</p><p>Responsible AI and compliance baseline</p><p>Every track must meet these rules. Breaking one in the live demo caps the Responsible AI</p><p>score at zero.</p><p>AI disclosure. The agent says it is an AI in its first turn, in the user's language.</p><p>Data. Synthetic or consented data only. Anything teams collect in demos falls under</p><p>the DPDP Act, and transcripts are encrypted at rest and deleted after judging.</p><p>Health. No diagnosis, treatment or dosage advice. Fixed protocols only.</p><p>Money. No lending, no pressure language, opt-in reminders only.</p><p>Secrets. Keep the API key out of the public repo. Store it in a .env file listed in</p><p>.gitignore.</p><p>Voices. No cloning of any real person's voice.</p>",
+        "prizes": "",
+        "sponsors": [],
+        "categories": [],
+        "requirements": "",
+        "resources": ""
+      }
+    ],
+    "sponsors": [],
+    "partners": [],
+    "judgeProfiles": [],
+    "judges": [],
+    "mentors": [],
+    "organizers": [
+      {
+        "name": "HackBriven",
+        "email": "event@hackbriven.com",
+        "role": ""
+      }
+    ],
+    "stages": [
+      {
+        "stageId": "submission-1",
+        "name": "Round 2 PPT Submission",
+        "description": "",
+        "startDate": "2026-11-11T18:30:00.000Z",
+        "endDate": "2026-11-13T18:29:00.000Z",
+        "isOpen": true,
+        "requirements": [],
+        "submissionType": "PPT",
+        "type": "submission",
+        "submissionFields": [
+          {
+            "fieldId": "theme",
+            "fieldType": "select",
+            "label": "Theme / Track Selection",
+            "required": true,
+            "allowedFormats": [],
+            "options": [
+              " Build the Online Store",
+              "Healthcare: Voice field register forASHA workers",
+              "Voice Khata for kirana stores"
+            ]
+          },
+          {
+            "fieldId": "ppt_file",
+            "fieldType": "file",
+            "label": "Presentation File (PDF)",
+            "required": true,
+            "maxFileSizeMB": 10,
+            "allowedFormats": [
+              "pdf"
+            ],
+            "options": []
+          }
+        ],
+        "submittedBy": "leader_only",
+        "stageType": "review",
+        "isEliminator": true,
+        "isFinal": false,
+        "progressionMode": "manual",
+        "judgingEnabled": false,
+        "judgingCriteria": [],
+        "judgingOpen": true,
+        "judgingDeadline": null,
+        "judgingClosedAt": null,
+        "judgingClosedBy": null,
+        "_id": "6af60605f45a30897982c225"
+      }
+    ],
+    "contactInfo": [
+      {
+        "name": "Shivam Kushwaha",
+        "role": "Organizer",
+        "email": "kushwahashivam64540@gmail.com",
+        "phone": "84455 03917",
+        "linkedin": "",
+        "whatsapp": "84455 03917"
+      }
+    ],
+    "judgingCriteria": [],
+    "status": "Approved",
+    "organizerId": {
+      "_id": "69e06962565e8156070f71c4",
+      "firstName": "Amit",
+      "lastName": ""
+    },
+    "hasPendingChanges": false,
+    "isFeatured": true,
+    "calendarIds": [
+      "6a30caf97a9df2a295215b20"
+    ],
+    "feedbackEnabled": true,
+    "feedbackDelayHours": 24,
+    "views": 25300,
+    "gender": "All",
+    "leaderboardPublished": false,
+    "referralLeaderboardPublic": true,
+    "waitlistEnabled": false,
+    "waitlistCount": 0,
+    "autoMoveToFirstRound": true,
+    "winners": [],
+    "createdAt": "2026-10-04T06:33:10.019Z",
+    "updatedAt": "2026-11-13T15:57:52.427Z",
+    "slug": "build-bengaluru-20",
+    "__v": 10,
+    "imageUrl": "/api/files/events/banners/69e06962565e8156070f71c4/1791095591544-7bd3a1bff71e-banner.jpg",
+    "mobileBanner": "/api/files/events/mobile-banners/6a02d2d52dc4908858d754fd/1794475771912-7c32c832b174-mobileBanner.jpg",
+    "thumbnail": "/api/files/events/thumbnails/69e06962565e8156070f71c4/1791095592942-1cba372a66a0-thumbnail.jpg",
+    "webBanner": "/api/files/events/banners/69e06962565e8156070f71c4/1791095591544-7bd3a1bff71e-banner.jpg",
+    "prizePool": "",
+    "participants": 4180,
+    "teamCount": 1343
+  }
+}
